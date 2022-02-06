@@ -6,7 +6,7 @@ Seja bem vindo ao meu perfil do github 👋
 
 - 🌱 Atualmente aprendendo desenvolvimento web
 - 🔭 Procurando melhorar minhas habilidades com códigos
-- 💻 Estou a aprender JS, HTML, CSS, Bootstrap Node.js e MySQL
+- 💻 Estou cursando Licenciatura em Computação
 - 📪 E-mail: denysvictor@gmail.com
 
 ### Atualmente aprendendo:
