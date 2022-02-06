@@ -7,7 +7,7 @@ Seja bem vindo ao meu perfil do github 👋
 - 🌱 Atualmente aprendendo desenvolvimento web
 - 🔭 Procurando melhorar minhas habilidades com códigos
 - 💻 Estou cursando Licenciatura em Computação
-- 📪 E-mail: denysvictor@gmail.com
+- 📪 E-mail: denysvictor8@gmail.com
 
 ### Atualmente aprendendo:
 
