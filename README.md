@@ -4,7 +4,7 @@
 
 Seja bem vindo ao meu perfil do github ✋
 
-- 🌱 I’m currently learning web development
-- 🔭 I’m improving my abilities on coding
-- 💻 I'm learning JS, HTML, CSS, Node.js and MySQL
+- 🌱 Atualmente aprendendo desenvolvimento web
+- 🔭 Procurando melhorar minhas habilidades com códigos
+- 💻 Estou a aprender JS, HTML, CSS, Node.js and MySQL
 
